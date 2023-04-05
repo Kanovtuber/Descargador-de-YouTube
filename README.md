@@ -7,7 +7,7 @@ Instalación
 Clona o descarga el repositorio de GitHub en tu PC:
 
 bash
-git clone https://github.com/tu_usuario/descargador_youtube.git
+git clone https://github.com/Kanovtuber/Descargador-de-YouTube.git
 Si no tienes git instalado, también puedes descargar el repositorio como un archivo ZIP y extraerlo en tu PC.
 
 Abre la terminal y navega al directorio donde se encuentra el repositorio clonado o extraído.
