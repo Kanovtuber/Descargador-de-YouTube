@@ -7,7 +7,6 @@ Instalación
 Clona o descarga el repositorio de GitHub en tu PC:
 
 bash
-Copy code
 git clone https://github.com/tu_usuario/descargador_youtube.git
 Si no tienes git instalado, también puedes descargar el repositorio como un archivo ZIP y extraerlo en tu PC.
 
@@ -15,12 +14,10 @@ Abre la terminal y navega al directorio donde se encuentra el repositorio clonad
 
 Instala las dependencias necesarias:
 
-Copy code
 pip install pytube tkinter
 Ejecución
 Ejecuta el script principal descargador_youtube_gui.py:
 
-Copy code
 python descargador_youtube_gui.py
 Esto abrirá la ventana de la aplicación Descargador de YouTube.
 
