@@ -19,7 +19,11 @@ Abre la terminal y navega al directorio donde se encuentra el repositorio clonad
 Instala las dependencias necesarias:
 pip install pytube tkinter
 ## Ejecución
-Ejecuta el script principal descargador_youtube_gui.py: python descargador_youtube_gui.py
+Ejecuta el script principal `descargador_youtube_gui.py`:
+python descargador_youtube_gui.py
+
+   
+   
 
 Esto abrirá la ventana de la aplicación Descargador de YouTube.
 
